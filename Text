@@ -66,3 +66,9 @@ Now that you have actualSleepHours and idealSleepHours, you can write a few if/e
 If actual sleep equals ideal sleep, log to the console that the user got the perfect amount of sleep.
 If the actual sleep is greater than the ideal sleep, log to the console that the user got more sleep than needed.
 If the actual sleep is less than the ideal sleep, log to the console that the user should get some rest.
+
+task 10
+To make this calculator more helpful, add the hours the user is over or under their ideal sleep in each log statement in calculateSleepDebt().
+
+task 11
+On the last line of the program, start the program by calling the calculateSleepDebt() function.
